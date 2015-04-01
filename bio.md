@@ -2,5 +2,4 @@ Hello, this is my bio page for assignment 1 of CS290 - Web Development.  When I'
 
 #Programming Background
 
-
-
+I first dabbled in programming when I was in third grade on a Commodore 64.  While I have continued to play around with programming I did not start seriously studying it until I enrolled at OSU last summer.  My favorite project in CS165 was probably Conway's Game of Life.
