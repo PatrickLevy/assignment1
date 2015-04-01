@@ -4,5 +4,4 @@ I have been teaching high school science for over twelve years in St. Paul, Minn
 
 #Programming Background
 
-
-
+I first dabbled in programming when I was in third grade on a Commodore 64.  While I have continued to play around with programming I did not start seriously studying it until I enrolled at OSU last summer.  My favorite project in CS165 was probably Conway's Game of Life.  outside of school I have been working on learning basic web development and have been exploring the Meteor framwork for a possible internship at a local educational software company.
